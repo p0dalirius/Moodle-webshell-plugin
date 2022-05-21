@@ -1,0 +1,12 @@
+<!--
+    @package  moodle_webshell
+    @copyright 2022, Remi GASCOU (Podalirius) <podalirius@protonmail.com>
+    @license MIT
+    @doc https://docs.moodle.org/dev/Plugin_files
+
+-->
+
+<!--The plugin's database scheme (tables, fields, indexes and keys) are defined here. You should always use the in-built XMLDB editor to generate this file-->
+
+
+To use this file, you have to rename it by omitting the .example extension at the end.
